@@ -16,7 +16,7 @@ public class Sample3_3 {
     }
 }
 
-class car {
+class Car {
     int num;
     double gas;
 }

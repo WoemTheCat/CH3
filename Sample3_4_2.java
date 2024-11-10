@@ -8,7 +8,7 @@ public class Sample3_4_2 {
     }
 }
 
-class car {
+class Car {
     int num;
     double gas;
 

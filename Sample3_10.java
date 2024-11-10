@@ -17,7 +17,7 @@ class Car {
     private int num;
     private double gas;
 
-    void setNumGas(int n, double g) {
+    public void setNumGas(int n, double g) {
         if (g > 0 && g < 100) {
             this.num = n;
             this.gas = g;
@@ -28,7 +28,7 @@ class Car {
         }
     }
 
-    void show() {
+    public void show() {
         System.out.println("車號是" + this.num);
         System.out.println("汽油量是" + this.gas);
     }

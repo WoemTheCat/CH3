@@ -1,4 +1,4 @@
-public class Sample3_18 {
+public class Sample3_17 {
     public static void main(String[] args) {
         String str = "Hello";
 

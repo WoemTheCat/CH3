@@ -7,7 +7,7 @@ public class Sample3_2 {
         car1.gas = 20.5;
 
         System.out.println("車號是" + car1.num);
-        System.out.println("汽油輛是" + car1.gas);
+        System.out.println("汽油量是" + car1.gas);
     }
 }
 

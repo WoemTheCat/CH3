@@ -10,9 +10,9 @@ public class Sample3_3 {
         car2.gas = 30.5;
 
         System.out.println("車號是" + car1.num);
-        System.out.println("汽油輛是" + car1.gas);
+        System.out.println("汽油量是" + car1.gas);
         System.out.println("車號是" + car2.num);
-        System.out.println("汽油輛是" + car2.gas);
+        System.out.println("汽油量是" + car2.gas);
     }
 }
 

@@ -16,7 +16,7 @@ class Car {
 
     void show() {
         System.out.println("車號是" + this.num);
-        System.out.println("汽油輛是" + this.gas);
+        System.out.println("汽油量是" + this.gas);
     }
 
     void showCar() {

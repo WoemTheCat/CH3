@@ -1,4 +1,4 @@
-public class Sample3_4 {
+public class Sample3_4_1 {
     public static void main(String[] args) {
         Car car1;
         car1 = new Car();
@@ -13,7 +13,7 @@ class car {
     double gas;
 
     void show() {
-        System.out.println("車號是" + this.num);
-        System.out.println("汽油輛是" + this.gas);
+        System.out.println("車號是" + num);
+        System.out.println("汽油輛是" + gas);
     }
 }

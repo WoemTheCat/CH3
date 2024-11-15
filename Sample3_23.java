@@ -14,13 +14,14 @@ public class Sample3_23 {
 
 class Car {
 
-    private int num = 0;
-    private double gas = 0.0;
-    private String name = "沒有名稱";
+    private int num;
+    private double gas;
+    private String name;
 
     public Car() {
         this.num = 0;
         this.gas = 0.0;
+        this.name = "沒有名稱";
         System.out.println("生產了車子");
     }
 

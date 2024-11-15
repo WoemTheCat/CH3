@@ -14,9 +14,9 @@ public class Sample3_23 {
 
 class Car {
 
-    private int num;
-    private double gas;
-    private String name;
+    private int num = 0;
+    private double gas = 0.0;
+    private String name = "沒有名稱";
 
     public Car() {
         this.num = 0;
